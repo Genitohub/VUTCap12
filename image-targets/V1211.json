@@ -1,0 +1,23 @@
+{
+  "type": "PLANAR",
+  "properties": {
+    "top": 67,
+    "left": 0,
+    "width": 847,
+    "height": 1129,
+    "isRotated": true,
+    "originalWidth": 847,
+    "originalHeight": 1264
+  },
+  "imagePath": "image-targets/V1211_luminance.jpg",
+  "metadata": null,
+  "name": "V1211",
+  "resources": {
+    "originalImage": "V1211_original.jpg",
+    "croppedImage": "V1211_cropped.jpg",
+    "thumbnailImage": "V1211_thumbnail.jpg",
+    "luminanceImage": "V1211_luminance.jpg"
+  },
+  "created": 1790198752504,
+  "updated": 1790198752504
+}

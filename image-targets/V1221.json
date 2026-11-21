@@ -1,0 +1,23 @@
+{
+  "type": "PLANAR",
+  "properties": {
+    "top": 48,
+    "left": 0,
+    "width": 503,
+    "height": 670,
+    "isRotated": true,
+    "originalWidth": 503,
+    "originalHeight": 767
+  },
+  "imagePath": "image-targets/V1221_luminance.jpg",
+  "metadata": null,
+  "name": "V1221",
+  "resources": {
+    "originalImage": "V1221_original.jpg",
+    "croppedImage": "V1221_cropped.jpg",
+    "thumbnailImage": "V1221_thumbnail.jpg",
+    "luminanceImage": "V1221_luminance.jpg"
+  },
+  "created": 1794869174019,
+  "updated": 1794869174019
+}
